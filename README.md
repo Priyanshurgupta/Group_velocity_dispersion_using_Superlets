@@ -1,0 +1,1 @@
+For more details please refer to the article P. Gupta, "Estimation of Seismic Surface Wave Group Velocity Dispersion Curves Using Superlets," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-9, 2024, Art no. 4511909, doi: 10.1109/TGRS.2024.3470050. 
